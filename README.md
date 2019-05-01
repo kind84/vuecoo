@@ -1,6 +1,6 @@
 # vuecoo
 
-> Nuxt.js front-end for my back-end app [Cacoo](https://github.com/kind84/cacoo).
+> Nuxt.js front-end for my back-end app [Gocoo](https://github.com/kind84/gocoo).
 
 ## Build Setup
 
